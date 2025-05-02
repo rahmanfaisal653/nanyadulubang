@@ -1,0 +1,307 @@
+*{
+  font-family: -apple-system;
+}
+
+.profile {
+  display: grid;
+  gap: 20px;
+  font-size: 15px;
+  width: 100%;
+}
+
+.swift {
+  background-color: #252222;
+}
+
+.profile-aside {
+  margin-top: 30px;
+  gap: 20px;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+button {
+  cursor: pointer;
+  
+}
+
+.akun-container {
+  background-color: #3f3b3b;
+  border: solid 3px #3f3b3b;
+  display: flex;
+  gap: 10px;
+  border-radius: 5px;
+  padding-left: 10%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+.data-diri{
+  gap: 60px;
+}
+
+.photo-profile{
+  padding: 10px;
+  
+}
+
+.photo-profile img{
+  width: 50%;
+
+}
+
+.photo-profile i {
+  font-size: 40px;
+  color: #ead519;
+}
+
+.profile-nama {
+  margin-top: 50px;
+  color: white;
+}
+
+.profile-nama h1 {
+  margin-bottom: 10px;
+  font-size: 15px;
+  font-family: -apple-system;
+}
+
+.profile-nama button {
+  width: 90px;
+  height: 30px;
+  font-size: 15px;
+  border-radius: 50px;
+  background-color: #ead519;
+}
+
+
+.following {
+  margin-top: 50px;
+  color: white;
+}
+
+.following h2{
+  font-size: 15px;
+  font-family: -apple-system;
+}
+
+.following h3{
+  font-size: 15px;
+  padding-top: 5px;
+  text-align: center;
+}
+
+.follower {
+  margin-top: 50px;
+  color: white;
+  
+}
+
+.follower h2 {
+  font-size: 15px;
+  font-family: -apple-system;
+}
+
+.follower h3 {
+  font-size: 15px;
+  padding-top: 5px;
+  text-align: center;
+}
+
+.share-profile {
+  margin-top: 75px;
+}
+
+.share-profile button {
+  width: 50px;
+  height: 30px;
+  font-size: 15px;
+  border-radius: 50px;
+  background-color: #ead519;
+}
+
+.postingan-container {
+  background-color: #3f3b3b;
+  border: solid 3px #3f3b3b;
+  border-radius: 5px;
+  padding: 10px;
+  padding-left: 10px;
+  color: white;
+  
+}
+
+.postingan-container h2 {
+  cursor: pointer;
+}
+
+.pengalaman-container {
+  background-color: #3f3b3b;
+  border: solid 3px #3f3b3b;
+  border-radius: 5px;
+  padding: 50px;
+  padding-left: 20px;
+  color: white;
+}
+
+.pengalaman-container h2 {
+  cursor: pointer;
+}
+
+.keahlian-container {
+  background-color: #3f3b3b;
+  border: solid 3px #3f3b3b;
+  border-radius: 5px;
+  padding: 50px;
+  padding-left: 20px;
+  color: white;
+}
+
+.keahlian-container h2 {
+  cursor: pointer;
+}
+
+.trending-topic {
+  border: 3px solid #ead519;
+  background-color: #ead519;
+  text-align: center;
+  border-radius: 20px;
+  color: white;
+}
+
+.follow {
+  border: 3px solid #ead519;
+  background-color: #ead519;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.item3 {
+  background-color: #3f3b3b;
+  border: 3px solid #3f3b3b;
+  border-radius: 5px;
+  text-align: left;
+  padding: 10px;
+}
+
+.subscribe {
+  margin-top: -3px;
+  margin-left: 5px;
+  margin-right: 5px;
+  font-size: 1.4em;
+  font-family: -apple-system;
+  font-weight: bold;
+}
+
+.button-subscribe a {
+  font-size: 1.1em;
+  font-family: arial rounded MT Bold;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.button-subscribe a:hover {
+  font-size: 1.1em;
+  font-family: arial rounded MT Bold;
+  font-weight: bold;
+  color: black;
+}
+
+.text-subscribe {
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  font-size: 0.85em;
+  font-family: arial rounded MT Bold;
+}
+
+.item4 {
+  background-color: #3f3b3b;
+  border: 3px solid #3f3b3b;
+  border-radius: 5px;
+  text-align: left;
+  padding: 10px;
+}
+
+.trending-top-title {
+  margin-left: 5px;
+  margin-right: 5px;
+  font-size: 1.4em;
+  font-family: -apple-system;
+  font-weight: bold;
+}
+
+.title-trending {
+  margin-left: 7px;
+  font-size: 1.05em;
+}
+
+.view-trending {
+  margin-left: 7px;
+  font-size: 0.85em;
+  font-family: -apple-system;
+}
+
+.item5 {
+  background-color: #3f3b3b;
+  border: 3px solid #3f3b3b;
+  border-radius: 5px;
+  text-align: left;
+  padding: 10px;
+}
+
+.suggest-top-title {
+  margin-left: 5px;
+  margin-right: 5px;
+  font-size: 1.4em;
+  font-family: -apple-system;
+  font-weight: bold;
+}
+
+.nickname {
+  margin-top: -1px;
+  font-size: 0.95em;
+  font-family: Bangla Sangam MN;
+  font-weight: bold;
+}
+
+.username {
+  margin-top: -6px;
+  font-size: 0.95em;
+  font-family: Bangla Sangam MN;
+}
+
+.button-follow a {
+  font-size: 1.1em;
+  font-family: arial rounded MT Bold;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.button-follow a:hover {
+  font-size: 1.1em;
+  font-family: arial rounded MT Bold;
+  font-weight: bold;
+  color: black;
+}
+
+aside{
+  display: grid;
+  height: 100%;
+  gap: 20px;
+  color: white;
+}
+
+img{
+  width: 100%;
+  border-radius: 5px;
+}
+
+.logo-perusahaan{
+  width: 10%;
+}
+
+.user{
+  margin-bottom: 5px;
+  gap: 10px;
+}
+
