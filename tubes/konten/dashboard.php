@@ -62,7 +62,7 @@ $base = "../images/";
               <figure class="w-8 sm:w-10 md:w-12">
                 <img src="../images/dw.png" alt="logo" class="w-full" />
               </figure>
-              <p class="font-bold text-xl sm:text-2xl md:text-3xl ml-2" style="color: #ffc107;">NanyaDuluBang WKWKWK</p>
+              <p class="font-bold text-xl sm:text-2xl md:text-3xl ml-2" style="color: #ffc107;">NanyaDuluBang</p>
             </div>
       
             
